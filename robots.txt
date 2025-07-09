@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alshedivat.github.io/al-folio/sitemap.xml
+Sitemap: http://printart.isr.ist.utl.pt:8081# the base hostname & protocol for your site/sitemap.xml
