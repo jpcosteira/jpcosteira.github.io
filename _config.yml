@@ -9,8 +9,8 @@ last_name: Costeira
 email: jpc@isr.ist.utl.pt
 contact_note: >
   Don't try to reach me
-description: Meaningfull things of my academic life > # the ">" symbol means to ignore newlines until "footer_text:"
-  What the heck, it's my webpage.
+description: > # the ">" symbol means to ignore newlines until "footer_text:"
+  Meaningfull things of my academic life
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
